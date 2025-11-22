@@ -1,0 +1,3 @@
+body { background: #f7f7f7; margin:0; padding:0; }
+textarea { minHeight: 80px; width: 100%; font-family: monospace; }
+input, select, button { padding:6px; }
